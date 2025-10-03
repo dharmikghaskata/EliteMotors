@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For any queries or support, please contact:
-- Email: your.email@example.com
+- Email: ghaskatadharmik04@gmail.com
 - GitHub: [@EliteMotors](https://github.com/dharmikghaskata/EliteMotors)
 
 ## 🙏 Acknowledgments
